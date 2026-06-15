@@ -1,0 +1,29 @@
+{
+  "name": "node-js",
+  "version": "1.0.0",
+  "description": "El mejor curso de Node JS por 0$",
+  "keywords": [
+    "curso",
+    "node",
+    "nodejs",
+    "romaflow"
+  ],
+  "homepage": "https://github.com/romaflow/NODE-JS#readme",
+  "bugs": {
+    "url": "https://github.com/romaflow/NODE-JS/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/romaflow/NODE-JS.git"
+  },
+  "license": "ISC",
+  "author": "Roly Mamani Flores - romaflow",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "picocolors": "^1.1.1"
+  }
+}
